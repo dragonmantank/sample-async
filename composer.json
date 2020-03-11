@@ -1,0 +1,12 @@
+{
+    "require": {
+        "ratchet/pawl": "^0.3.4",
+        "nexmo/client": "^2.0",
+        "cboden/ratchet": "^0.4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/"
+        }
+    }
+}
